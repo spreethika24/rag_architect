@@ -1,0 +1,22 @@
+POLICY SUMMARY DOCUMENT
+
+Policy Number: INS-2026-00931
+Policy Type: Comprehensive Auto Insurance
+Coverage Period: Jan 1, 2026 - Dec 31, 2026
+
+Coverage Details:
+- Third-party liability: up to INR 15,00,000
+- Own damage cover: up to INR 8,00,000
+- Personal accident cover: INR 5,00,000
+- Zero depreciation add-on: Included
+- No Claim Bonus: 35%
+
+Exclusions:
+- Mechanical or electrical breakdown
+- Consequential damages
+- Usage outside geographical limits without endorsement
+
+Claims Process:
+Policyholders must intimate claims within 48 hours of an incident via the
+mobile app, call center, or nearest branch office. Surveyor assessment is
+mandatory for claims exceeding INR 50,000.

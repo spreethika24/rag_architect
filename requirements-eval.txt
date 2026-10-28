@@ -1,0 +1,12 @@
+# Optional: only needed for the "Validate with RAGAS" button (evaluation.py).
+# The normal app does not need these:  pip install -r requirements.txt
+-r requirements.txt
+ragas>=0.3.0
+sentence-transformers>=3.0.0
+numpy>=1.26.0
+# Python 3.14 note: ragas pulls in scikit-network, which has no 3.14 wheel, and
+# current langchain-community releases dropped the vertexai module that ragas
+# imports. Workaround used here:
+#   pip install --no-deps ragas
+#   pip install --no-deps "langchain-community==0.3.31"
+# plus ragas's other dependencies (datasets, instructor, openai, tiktoken, ...).

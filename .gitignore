@@ -1,0 +1,12 @@
+# Secrets: never push these to the Space or any remote
+.env
+
+# Environments and caches
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.gradio/
+flagged/
+.DS_Store

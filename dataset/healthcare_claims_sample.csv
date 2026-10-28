@@ -1,0 +1,6 @@
+claim_id,patient_diagnosis,claim_amount_usd,status
+101,Hypertension,1200,Approved
+102,Diabetes Type 2,3400,Pending
+103,Fracture - Femur,8900,Approved
+104,Routine Checkup,250,Approved
+105,Cardiac Arrhythmia,5600,Denied

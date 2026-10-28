@@ -1,0 +1,11 @@
+gradio==6.30.0
+audioop-lts; python_version >= "3.13"
+pandas>=2.0.0
+pymupdf>=1.24.0
+pillow>=10.0.0
+pytesseract>=0.3.10
+langchain-groq>=0.1.9
+langgraph>=0.2.20
+pydantic>=2.6.0
+langsmith>=0.1.100
+python-dotenv>=1.0.0
